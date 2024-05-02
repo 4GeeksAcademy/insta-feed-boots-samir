@@ -1,0 +1,7 @@
+.dropdown-menu[data-bs-popper] {
+    
+    left: -150px;
+}
+.card-header [p] {
+    color: darkgray;
+}
